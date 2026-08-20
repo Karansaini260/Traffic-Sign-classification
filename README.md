@@ -1,2 +1,20 @@
-# Traffic-Sign-classification
-IN this project we will use Convolutional Neural Network to build train and test a trafficx sign classification model. We will build this model using tensorflow and keras. It is a multiclass classification problem. This model can be used to make smarter cars.
+# Traffic Sign Classification 🚸
+
+Classifies traffic signs with a **Convolutional Neural Network**
+(TensorFlow/Keras) — a multiclass classification problem useful for
+autonomous/smarter cars.
+
+## ✨ What It Does
+- Builds, trains & tests a CNN on traffic sign data
+- Multiclass classification across sign categories
+
+## 🚀 Getting Started
+```bash
+jupyter notebook
+```
+
+## 🛠️ Built With
+- Python · TensorFlow/Keras
+
+## 📄 License
+MIT
